@@ -38,20 +38,17 @@
 <h2 align="left">🔥   Github Stats :</h2>
 
 ###
-
+ 
 <div align="center">
-   <img src="https://github-readme-stats.vercel.app/api?username=abhimistry-07&theme=radical&hide_border=false&include_all_commits=false&count_private=false" />
+  <img src="https://github-readme-stats.vercel.app/api?username=abhimistry-07&theme=radical&hide_border=false&include_all_commits=true&count_private=false" />
   <br />
   <br />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=abhimistry-07&theme=radical&hide_border=false" height="220" alt="streak graph"  />
   <br />
   <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhimistry-07&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
-  <br />
-  <br />
   <image src="https://github-contributor-stats.vercel.app/api?username=abhimistry-07&limit=5&theme=radical&combine_all_yearly_contributions=true" />
 </div>
    
-  
+###  
   
   
