@@ -16,7 +16,7 @@
 - 🌱 I’m currently learning MERN stack.
 - 💬 Ask me about HTML, CSS, JavaScript, React & DSA
 - 🔭 I’m currently working on Skills
-- 📫 How to reach me: <a href="https://www.linkedin.com/in/abhishek-mistry-3b0953202/">LinkedIn<a/>
+<!-- - 📫 How to reach me: <a href="https://www.linkedin.com/in/abhishek-mistry-3b0953202/">LinkedIn<a/> -->
 
 ###
  
