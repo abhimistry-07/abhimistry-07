@@ -1,4 +1,8 @@
-<img src="https://camo.githubusercontent.com/a93031e8b1d874c7d1f76754c67db6530b3087117e7e5ca4dd9c0d903d53efaf/68747470733a2f2f7170682e6366322e71756f726163646e2e6e65742f6d61696e2d71696d672d6661376234626463336232663733653734396535633263363436643461653133" />
+<div align="center">
+ <img align='cneter' alt="Coder GIF" height=250 width=350 src="https://cdn.dribbble.com/users/1187836/screenshots/6539429/programer.gif" />
+</div> 
+
+##
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=4000&pause=1000&color=F4F6F7&center=true&vCenter=true&width=1278&lines=Hi+%F0%9F%91%8B!+I'm+Abhishek.;A+passionate+Full-Stack+web+developer+from+India%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB+%F0%9F%9A%80.)](https://git.io/typing-svg)
 
@@ -28,10 +32,32 @@
 ###
   
  <h2 align="left">💻 Tech Stack:</h2>
+
+![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=for-the-badge&logo=html5&logoColor=ffffff)
+![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=for-the-badge&logo=css3)
+![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=for-the-badge&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
+![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![React.js](https://img.shields.io/badge/-React.js-%23282C34?style=for-the-badge&logo=react)
+![Express.jS](https://img.shields.io/badge/-Express.js-%23282C34?style=for-the-badge&logo=express) 
+![Node.jS](https://img.shields.io/badge/-Node.js-%23282C34?style=for-the-badge&logo=node.js&labelColor=FAFAFA) 
+![Mongodb](https://img.shields.io/badge/-MongoDB-%23282C34?style=for-the-badge&logo=mongoDB) 
+![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) 
+![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) 
+![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) 
+
+![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-%231a202c?style=for-the-badge&logo=tailwind-css)
+![ChakraUI](https://img.shields.io/badge/-ChakraUI-%231a202c?style=for-the-badge&logo=chakra-ui)
+
+![Git](https://img.shields.io/badge/-Git-%23F05032?style=for-the-badge&logo=git&logoColor=%23ffffff)
+![GitHub](https://img.shields.io/badge/-GitHub-%23F05032?style=for-the-badge&logo=GitHub&color=212121) 
+![VS Code](https://img.shields.io/badge/-VSCode-%23007ACC?style=for-the-badge&logo=visual-studio-code)
+![Postman](https://img.shields.io/badge/-Postman-%23F05032?style=for-the-badge&logo=Postman&color=FF5722&labelColor=FAFAFA)
+![NPM](https://img.shields.io/badge/-npm-%23F05032?style=for-the-badge&logo=npm&color=rgb(229,%2057,%2053)&labelColor=FAFAFA)
+
+![Netlify](https://img.shields.io/badge/-Netlify-%2300C7B7?style=for-the-badge&logo=netlify&logoColor=ffffff)
+![Vercel](https://img.shields.io/badge/-Vercel-%23ffffff?style=for-the-badge&logo=vercel&logoColor=000000)
+![Render](https://img.shields.io/badge/-Render-%2346E3B7?style=for-the-badge&logo=render&logoColor=ffffff)
   
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://camo.githubusercontent.com/ee71fcc1aa3d059265517741dffc4161922fd744377e7a5f07c43381d0aa9aac/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f747970657363726970742d2532333030374143432e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d74797065736372697074266c6f676f436f6c6f723d7768697465) ![Express JS](https://camo.githubusercontent.com/8286a45a106e1a3c07489f83a38159981d888518a740b59c807ffc1b7b1e2f7b/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f657870726573732e6a732d2532333430346435392e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d65787072657373266c6f676f436f6c6f723d253233363144414642) ![Node JS](https://camo.githubusercontent.com/7d7b100e379663ee40a20989e6c61737e6396c1dafc3a7c6d2ada8d4447eb0e4/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6e6f64652e6a732d3644413535463f7374796c653d666f722d7468652d6261646765266c6f676f3d6e6f64652e6a73266c6f676f436f6c6f723d7768697465) ![Mongodb](https://camo.githubusercontent.com/c839570bc71901106b11b8411d9277a6a8356a9431e4a16d6c26db82caab7d62/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4d6f6e676f44422d2532333465613934622e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d6d6f6e676f6462266c6f676f436f6c6f723d7768697465) 
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![Chakra](https://img.shields.io/badge/chakra-%234ED1C5.svg?style=for-the-badge&logo=chakraui&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![Netlify](https://camo.githubusercontent.com/dfb4109b571fbeb03ce2fe6eefb9eb9a3ca63e618e57002cc4b17d784baea807/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6e65746c6966792d2532333030303030302e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d6e65746c696679266c6f676f436f6c6f723d23303043374237)
-  ![Vercel](https://camo.githubusercontent.com/22547aa007860433c23771dfd59d184297d9433adcf3082be8515a28a16cd875/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f76657263656c2d2532333030303030302e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d76657263656c266c6f676f436f6c6f723d7768697465) ![NPM](https://camo.githubusercontent.com/9f4e6e753f9a0bf4fc06bef97a70a0b50d120730f449cd727ea935c001b7d80c/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4e504d2d3030303f7374796c653d666f722d7468652d6261646765266c6f676f3d6e706d) ![GitHub](https://camo.githubusercontent.com/851717fe1659e3f6c285f37a7793de4197340d3a5cf8fdcde12577cdcf2afcf9/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4769744875622d3030303f7374796c653d666f722d7468652d6261646765266c6f676f3d676974687562) ![Postman](https://camo.githubusercontent.com/3f0e26b0951bab845a1bb9a7198ecca0da272e462921b6edd85879f3673b6927/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f506f73746d616e2d4646364333373f7374796c653d666f722d7468652d6261646765266c6f676f3d706f73746d616e266c6f676f436f6c6f723d7768697465)
 
 <!-- <h3 align="left">Back-end</h3> 
 
@@ -65,7 +91,5 @@
   <br />
   <image src="https://github-contributor-stats.vercel.app/api?username=abhimistry-07&limit=5&theme=radical&combine_all_yearly_contributions=true" />
 </div>
-   
-###  
-  
-  
+
+###    
